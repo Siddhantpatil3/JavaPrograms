@@ -9,9 +9,9 @@ public class Add
         Scanner s = new Scanner(System.in);
 
         System.out.print("\n Enter 1st number : ");
-        N1 = s.nextInt();        // 17
+        N1 = s.nextInt();        
         System.out.print("\n Enter 2nd number : ");
-        N2 = s.nextInt();        // 23
+        N2 = s.nextInt();        
 
         Sum = N1 + N2;
 
